@@ -1,0 +1,1 @@
+openocd -f interface/stlink.cfg -f target/stm32f2x.cfg -c "init" -c "reset halt" -c "program nuttx.bin 0x08000000 verify reset exit"

@@ -1,0 +1,3 @@
+ifneq ($(CONFIG_CUSTOM_APPS_CUSTOM_HELLO),)
+CONFIGURED_APPS += $(APPDIR)/dev10/CustomHello
+endif

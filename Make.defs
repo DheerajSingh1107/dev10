@@ -1,0 +1,1 @@
+include $(wildcard $(APPDIR)/dev10/*/Make.defs)

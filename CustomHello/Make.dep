@@ -1,0 +1,62 @@
+# Gen Make.dep automatically
+CustomHello.c.home.dhirajsinghbisht.nuttxworkspace.dev10.CustomHello.o: \
+ CustomHello.c \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/stdio.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/config.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/sys/types.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/compiler.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/stdint.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/arch/types.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/arch/inttypes.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/limits.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/arch/limits.h \
+ /opt/gcc-arm-none-eabi-10-2020-q4-major/lib/gcc/arm-none-eabi/10.2.1/include/stdarg.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/time.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/fs/fs.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/fs/ioctl.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/stdbool.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/serial/tioctl.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/fs/uio.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/sys/uio.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/dirent.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/atomic.h \
+ /opt/gcc-arm-none-eabi-10-2020-q4-major/lib/gcc/arm-none-eabi/10.2.1/include/stdatomic.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/mutex.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/assert.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/semaphore.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/errno.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/semaphore.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/queue.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/clock.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/lib/math32.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/inttypes.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/stddef.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/strings.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/string.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/alloca.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/mm/map.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/mm/gran.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/spawn.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/spawn.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/sched.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/signal.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/irq.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/arch/irq.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/arch/syscall.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/arch/chip/irq.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/arch/stm32/chip.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/arch/stm32/stm32f20xxx_irq.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/arch/armv7-m/irq.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/arch/armv7-m/nvicpri.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/arch/chip/chip.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/spinlock_type.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/lib/lib.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/kmalloc.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/stdlib.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/mm/mm.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/userspace.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/pthread.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/unistd.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/malloc.h
+# No files specified for dependency generation
+# No files specified for dependency generation
