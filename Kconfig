@@ -6,5 +6,7 @@
 #
 
 menu "dev10"
+source "/home/dhirajsinghbisht/nuttxworkspace/dev10/buttons/Kconfig"
 source "/home/dhirajsinghbisht/nuttxworkspace/dev10/CustomHello/Kconfig"
+source "/home/dhirajsinghbisht/nuttxworkspace/dev10/leds/Kconfig"
 endmenu # dev10

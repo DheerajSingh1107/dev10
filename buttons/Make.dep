@@ -1,21 +1,27 @@
 # Gen Make.dep automatically
-CustomHello.c.home.dhirajsinghbisht.nuttxworkspace.dev10.CustomHello.o: \
- CustomHello.c \
- /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/stdio.h \
+buttons_main.c.home.dhirajsinghbisht.nuttxworkspace.dev10.buttons.o: \
+ buttons_main.c \
  /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/config.h \
- /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/sys/types.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/sys/ioctl.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/fs/ioctl.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/stdbool.h \
  /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/compiler.h \
  /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/stdint.h \
  /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/arch/types.h \
  /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/arch/inttypes.h \
  /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/limits.h \
  /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/arch/limits.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/sys/types.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/serial/tioctl.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/input/ioctl.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/stdlib.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/string.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/stddef.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/alloca.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/stdio.h \
  /opt/gcc-arm-none-eabi-10-2020-q4-major/lib/gcc/arm-none-eabi/10.2.1/include/stdarg.h \
  /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/time.h \
  /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/fs/fs.h \
- /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/fs/ioctl.h \
- /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/stdbool.h \
- /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/serial/tioctl.h \
  /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/fs/uio.h \
  /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/sys/uio.h \
  /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/dirent.h \
@@ -30,10 +36,7 @@ CustomHello.c.home.dhirajsinghbisht.nuttxworkspace.dev10.CustomHello.o: \
  /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/clock.h \
  /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/lib/math32.h \
  /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/inttypes.h \
- /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/stddef.h \
  /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/strings.h \
- /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/string.h \
- /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/alloca.h \
  /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/mm/map.h \
  /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/mm/gran.h \
  /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/spawn.h \
@@ -52,11 +55,15 @@ CustomHello.c.home.dhirajsinghbisht.nuttxworkspace.dev10.CustomHello.o: \
  /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/spinlock_type.h \
  /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/lib/lib.h \
  /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/kmalloc.h \
- /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/stdlib.h \
  /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/mm/mm.h \
  /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/userspace.h \
  /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/pthread.h \
  /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/unistd.h \
- /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/malloc.h
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/malloc.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/poll.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/sys/poll.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/fcntl.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/input/buttons.h \
+ /home/dhirajsinghbisht/nuttxworkspace/nuttx/include/nuttx/leds/userled.h
 # No files specified for dependency generation
 # No files specified for dependency generation
